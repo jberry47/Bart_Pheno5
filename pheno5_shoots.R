@@ -13,10 +13,6 @@ library(multcomp)
 library(lme4)
 library(lsmeans)
 library(gridExtra)
-
-
-
-
 library(ggdendro)
 library(dendextend)
 library(dendextendRcpp)
